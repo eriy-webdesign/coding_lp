@@ -208,7 +208,7 @@ img {
 /* ===================== point ===================== */
 
 #point {
-	background: url(../images/checkered_bg.jpg);
+	background: url(checkered_bg.jpg);
 	background-repeat: repeat;
 	width: 100%;
 }
@@ -313,7 +313,7 @@ img {
 
 .worry-box:after {
 	content: '';
-	background-image: url(../images/worry-man.png);
+	background-image: url(worry-man.png);
 	background-size: contain;
 	width: 415px;
 	height: 635px;
@@ -541,7 +541,7 @@ img {
 
 #strength {
 	width: 100%;
-	background: url(../images/checkered_bg.jpg);
+	background: url(checkered_bg.jpg);
 	background-repeat: repeat;
 }
 
@@ -796,20 +796,20 @@ img {
 
 #price {
 	width: 100%;
-	background: url(../images/checkered_bg.jpg);
+	background: url(checkered_bg.jpg);
 }
 
 #price h2 {
-	font-size: 28px;
+	font-size: 50px;
 	color: #fff;
 	background: #24a85f;
-	padding: 30px;
+	padding: 60px;
 	line-height: 1.2;
 	text-align: center;
 }
 
 #price h2 span {
-	font-size: 36px;
+	font-size: 54px;
 	color: #ffff36;
 }
 
@@ -995,7 +995,7 @@ background: linear-gradient(transparent 50%, #fef222 50%);
 
 #risk h2:after {
 	content: '';
-	background-image: url(../images/risk-h2-man.png);
+	background-image: url(risk-h2-man.png);
 	background-size: contain;
 	background-repeat: no-repeat;
 	width: 177px;
@@ -1149,7 +1149,7 @@ background: linear-gradient(transparent 50%, #fef222 50%);
 /* ===================== 報酬 ===================== */
 #reward{
 	width: 100%;
-	background: url(../images/reward-bg.png);
+	background: url(reward-bg.png);
 }
 
 .reward-box {
@@ -1167,7 +1167,7 @@ background: linear-gradient(transparent 50%, #fef222 50%);
 
 .reward-title:after {
 	content: '';
-	background: url(../images/reward-man.png);
+	background: url(reward-man.png);
 	background-size: contain;
 	width: 215px;
 	height: 501px;
@@ -1400,7 +1400,7 @@ background: linear-gradient(transparent 50%, #fef222 50%);
 
 #profile {
 	width: 100%;
-	background: url(../images/checkered_bg.jpg);
+	background: url(checkered_bg.jpg);
 	font-weight: bold;
 	padding-bottom: 50px;
 }
@@ -1450,7 +1450,7 @@ background: linear-gradient(transparent 50%, #fef222 50%);
 .profile-message:after {
 	content: '';
 	display: inline-block;
-	background: url(../images/profile-man-1.png);
+	background: url(profile-man-1.png);
 	background-repeat: no-repeat;
 	background-size: contain;
 	width: 269px;
@@ -1590,7 +1590,7 @@ dd {
 
 #form {
 	width: 100%;
-	background: url(../images/form-bg.jpg);
+	background: url(form-bg.jpg);
 	overflow: hidden;
 }
 
